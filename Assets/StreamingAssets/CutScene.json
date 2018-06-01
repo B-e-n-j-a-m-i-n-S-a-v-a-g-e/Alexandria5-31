@@ -1,0 +1,41 @@
+{
+ 
+    "CUT_SCENES_EgyptPyramidsPositionX": 0,
+	"CUT_SCENES_EgyptPyramidsPositionY": 1,
+	"CUT_SCENES_EgyptPyramidsScaleX": 1,
+	"CUT_SCENES_EgyptPyramidsScaleY": 1,
+	
+	"CUT_SCENES_JeepPositionX": 0,
+	"CUT_SCENES_JeepPositionY": 0,
+	"CUT_SCENES_JeepScaleX": 1,
+	"CUT_SCENES_JeepScaleY": 1,
+
+	"CUT_SCENES_EgyptPyramidsTextPositionX": 0,
+	"CUT_SCENES_EgyptPyramidsTextPositionY": 5,
+	
+	"CUT_SCENES_LabPositionX": 0,
+	"CUT_SCENES_LabPositionY": 1,
+	"CUT_SCENES_LabScaleX": 1,
+	"CUT_SCENES_LabScaleY": 1,
+	
+	"CUT_SCENES_ScientistPositionX": 0,
+	"CUT_SCENES_ScientistPositionY": 0,
+	"CUT_SCENES_ScientistScaleX": 1,
+	"CUT_SCENES_ScientistScaleY": 1,
+	
+	"CUT_SCENES_LabTextPositionX": 0,
+	"CUT_SCENES_LabTextPositionY": 0,
+	"CUT_SCENES_LabTextScaleX": 1,
+	"CUT_SCENES_LabTextScaleY": 1,
+	
+	"CUT_SCENES_MapPositionX": 0,
+	"CUT_SCENES_MapPositionY": 0,
+	"CUT_SCENES_MapScaleX": 1,
+	"CUT_SCENES_MapScaleY": 1,
+	
+	"CUT_SCENES_MapTextPositionX": 0,
+	"CUT_SCENES_MapTextPositionY": 5
+	
+	
+	
+}

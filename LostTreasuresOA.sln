@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostTreasuresOA", "Assembly-CSharp.csproj", "{3FF3AB60-07E6-39DC-8F54-F2DC4FB42CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostTreasuresOA", "Assembly-CSharp-firstpass.csproj", "{5C33A8C2-F043-D25C-BA31-738475B626F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF3AB60-07E6-39DC-8F54-F2DC4FB42CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF3AB60-07E6-39DC-8F54-F2DC4FB42CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF3AB60-07E6-39DC-8F54-F2DC4FB42CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF3AB60-07E6-39DC-8F54-F2DC4FB42CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C33A8C2-F043-D25C-BA31-738475B626F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C33A8C2-F043-D25C-BA31-738475B626F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C33A8C2-F043-D25C-BA31-738475B626F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C33A8C2-F043-D25C-BA31-738475B626F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

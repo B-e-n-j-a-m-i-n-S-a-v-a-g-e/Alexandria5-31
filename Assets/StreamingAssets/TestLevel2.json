@@ -1,0 +1,129 @@
+{
+ 
+	"GENERAL_CurrentLevel": "TESTLEVEL2",
+ 
+    "GENERAL_FreeMovesValue": 10,
+    "GENERAL_MultiplierValue": 2,
+    "GENERAL_ManaValue": 2000,
+    "GENERAL_TimerValue": 5,
+    "GENERAL_ScoreValue": 10000,
+    "GENERAL_GoalPanelPointsValue": 2200,
+	"GENERAL_NumGates": 2,
+	"GENERAL_NumGoalPanelMultipliers": 2,
+	"GENERAL_GoalPanelMutliplier1Value": 1,
+    "GENERAL_GoalPanelMutliplier2Value": 5,
+	"GENERAL_GoalPanelMarbleType1": "_MarbleFortuneCookie",
+	"GENERAL_GoalPanelMarbleType2": "_MarbleLantern",
+	    
+    "ASIA_BoardPositionX": 0.0,
+    "ASIA_BoardPositionY": 0.0,
+    "ASIA_BoardScaleX": 1,
+    "ASIA_BoardScaleY": 1,
+    
+    "ASIA_OverlayPositionX": 0.0,
+    "ASIA_OverlayPositionY": 0.0,
+    "ASIA_OverlayScaleX": 0.0,
+    "ASIA_OverlayScaleY": 0.0,
+            
+    "ASIA_EnemyPositionX": -7.8,
+    "ASIA_EnemyPositionY": 1.5,
+    "ASIA_EnemyScaleX": 0.0,
+    "ASIA_EnemyScaleY": 0.0,
+        
+    "ASIA_ProgressIndicatorPositionX": 7.5,
+    "ASIA_ProgressIndicatorPositionY": -2.8,
+    "ASIA_ProgressIndicatorScaleX": 0.0,
+    "ASIA_ProgressIndicatorScaleY": 0.0,
+        
+    "GENERAL_TimerPositionX": 0.0,
+    "GENERAL_TimerPositionY": 0.0,
+    "GENERAL_TimerScaleX": 0.0,
+    "GENERAL_TimerScaleY": 0.0,
+    "GENERAL_TimerInitialValue": 80.0,
+            
+    "ASIA_Gate1PositionX": 7.4,
+    "ASIA_Gate1PositionY": 1.0,
+    "ASIA_Gate1ScaleX": 0.0,
+    "ASIA_Gate1ScaleY": 0.0,
+               
+    "ASIA_Gate2PositionX": 7.4,
+    "ASIA_Gate2PositionY": -0.5,
+    "ASIA_Gate2ScaleX": 0.0,
+    "ASIA_Gate2ScaleY": 0.0,
+    
+    "ASIA_Gate3PositionX": 7.4,
+    "ASIA_Gate3PositionY": -2.0,
+    "ASIA_Gate3ScaleX": 0.0,
+    "ASIA_Gate3ScaleY": 0.0,
+    
+    "GENERAL_MultiplierTextPositionX": 7.4,
+    "GENERAL_MultiplierTextPositionY": -4,
+    "GENERAL_MultiplierTextScaleX": 0.0,
+    "GENERAL_MultiplierTextScaleY": 0.0,
+    
+    "GENERAL_ManaPositionX": -7.7,
+    "GENERAL_ManaPositionY": -4.9,
+    "GENERAL_ManaScaleX": 0.0,
+    "GENERAL_ManaScaleY": 0.0,
+    
+    "GENERAL_ManaTextPositionX": -7.7,
+    "GENERAL_ManaTextPositionY": -4.9,
+    "GENERAL_ManaTextScaleX": 0.0,
+    "GENERAL_ManaTextScaleY": 0.0,
+    
+    "GENERAL_FreeMovesPositionX": 8.4,
+    "GENERAL_FreeMovesPositionY": -4,
+    "GENERAL_FreeMovesScaleX": 0.0,
+    "GENERAL_FreeMovesScaleX": 0.0,
+    
+    "GENERAL_ScorePositionX": -7.7,
+    "GENERAL_ScorePositionY": -4.9,
+    "GENERAL_ScoreScaleX": 0.0,
+    "GENERAL_ScoreScaleY": 0.0,
+    
+    "GENERAL_GoalPanelPointsPositionX": -7.7,
+    "GENERAL_GoalPanelPointsPositionY": -4.9,
+    "GENERAL_GoalPanelPointsScaleX": 0.0,
+    "GENERAL_GoalPanelPointsScaleY": 0.0,
+    
+    "GENERAL_GoalPanelMultiplierPositionX": -7.7,
+    "GENERAL_GoalPanelMultiplierPositionY": -4.9,
+    "GENERAL_GoalPanelMultiplierScaleX": 0.0,
+    "GENERAL_GoalPanelMultiplierScaleY": 0.0,
+    
+    "ASIA_GoalPanelMarbleDragon1PositionX": 7.06,
+    "ASIA_GoalPanelMarbleDragon1PositionY": 3.23,
+    "ASIA_GoalPanelMarbleDragon1ScaleX": 0.55,
+    "ASIA_GoalPanelMarbleDragon1ScaleY": 0.55,
+    
+    "ASIA_GoalPanelMarbleDragon2PositionX": 7.76,
+    "ASIA_GoalPanelMarbleDragon2PositionY": 3.23,
+    "ASIA_GoalPanelMarbleDragon2ScaleX": 0.55,
+    "ASIA_GoalPanelMarbleDragon2ScaleY": 0.55,
+    
+    "ASIA_GoalPanelMarbleDragon3PositionX": 8.46,
+    "ASIA_GoalPanelMarbleDragon3PositionY": 3.23,
+    "ASIA_GoalPanelMarbleDragon3ScaleX": 0.55,
+    "ASIA_GoalPanelMarbleDragon3ScaleY": 0.55,
+    
+    "GENERAL_GoalPanelMultiplier2PositionX": -7.7,
+    "GENERAL_GoalPanelMultiplier2PositionY": -7.9,
+    "GENERAL_GoalPanelMultiplier2ScaleX": 0.0,
+    "GENERAL_GoalPanelMultiplier2ScaleY": 0.0,
+    
+    "ASIA_GoalPanelMarbleFan1PositionX": 7.06,
+    "ASIA_GoalPanelMarbleFan1PositionY": 2.43,
+    "ASIA_GoalPanelMarbleFan1ScaleX": 0.55,
+    "ASIA_GoalPanelMarbleFan1ScaleY": 0.55,
+    
+    "ASIA_GoalPanelMarbleFan2PositionX": 7.76,
+    "ASIA_GoalPanelMarbleFan2PositionY": 2.43,
+    "ASIA_GoalPanelMarbleFan2ScaleX": 0.55,
+    "ASIA_GoalPanelMarbleFan2ScaleY": 0.55,
+    
+    "ASIA_GoalPanelMarbleFan3PositionX": 8.46,
+    "ASIA_GoalPanelMarbleFan3PositionY": 2.43,
+    "ASIA_GoalPanelMarbleFan3ScaleX": 0.55,
+    "ASIA_GoalPanelMarbleFan3ScaleY": 0.55
+    
+}

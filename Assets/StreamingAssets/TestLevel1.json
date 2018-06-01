@@ -1,0 +1,372 @@
+{
+ 
+	"GENERAL_CurrentLevel": "ASIA",
+	"GENERAL_MechanicType: ": "MATCH3",
+ 
+    "GENERAL_FreeMovesValue": 0,
+    "GENERAL_MultiplierValue": 1,
+    "GENERAL_ManaValue": 5000,
+    "GENERAL_TimerValue": 1,
+    "GENERAL_ScoreValue": 0,
+	"GENERAL_MatchValue": 50,
+    "GENERAL_GoalPanelPointsValue": 200,
+    "GENERAL_NumGates": 3,
+	"GENERAL_NumGoalPanelMultipliers": 2,
+	"GENERAL_GoalPanelMultiplier1Value": 1,
+    "GENERAL_GoalPanelMultiplier2Value": 1,
+
+	
+	"GENERAL_NumMarbleTypes": 5,
+	
+	"GENERAL_NumRows": 12,
+	"GENERAL_NumColumns": 8,
+	
+	"GENERAL_MarbleSetPlacementX": -3.5,
+	"GENERAL_MarbleSetPlacementY": -5.0,
+	
+	"GENERAL_MarbleDistX": 1.0,
+	"GENERAL_MarbleDistY": 0.9, 
+	
+    "GENERAL_MultiplierTextPositionX": 6.46,
+    "GENERAL_MultiplierTextPositionY": -5.32,
+    "GENERAL_MultiplierTextScaleX": 1.5,
+    "GENERAL_MultiplierTextScaleY": 1.6,
+    
+    "GENERAL_ManaPositionX": -7.7,
+    "GENERAL_ManaPositionY": -4.8,
+    "GENERAL_ManaScaleX": 1,
+    "GENERAL_ManaScaleY": 1,
+    
+    "GENERAL_ManaTextPositionX": -7.78,
+    "GENERAL_ManaTextPositionY": -4.92,
+    "GENERAL_ManaTextScaleX": 0.027,
+    "GENERAL_ManaTextScaleY": 0.027,
+    
+    "GENERAL_FreeMovesPositionX": 8.61,
+    "GENERAL_FreeMovesPositionY": -5.24,
+    "GENERAL_FreeMovesScaleX": 0.017,
+    "GENERAL_FreeMovesScaleY": 0.017,
+    
+    "GENERAL_ScorePositionX": 7.55,
+    "GENERAL_ScorePositionY": 5.38,
+    "GENERAL_ScoreScaleX": 0.11,
+    "GENERAL_ScoreScaleY": 0.11,
+    
+    "GENERAL_GoalPanelPointsPositionX": 7.39,
+    "GENERAL_GoalPanelPointsPositionY": 4.26,
+    "GENERAL_GoalPanelPointsScaleX": 0.015,
+    "GENERAL_GoalPanelPointsScaleY": 0.015,
+    
+    "GENERAL_GoalPanelMultiplierPositionX": 6.29,
+    "GENERAL_GoalPanelMultiplierPositionY": 3.28,
+    "GENERAL_GoalPanelMultiplierScaleX": 0.017,
+    "GENERAL_GoalPanelMultiplierScaleY": 0.017,
+	
+	"GENERAL_TimerPositionX": -7.8,
+    "GENERAL_TimerPositionY": 2.77,
+    "GENERAL_TimerScaleX": 0.12,
+    "GENERAL_TimerScaleY": 0.12,
+    "GENERAL_TimerInitialValue": 80.0,
+		 
+    "GENERAL_GoalPanelMultiplier2PositionX": 6.32,
+    "GENERAL_GoalPanelMultiplier2PositionY": 2.49,
+    "GENERAL_GoalPanelMultiplier2ScaleX": 0.017,
+    "GENERAL_GoalPanelMultiplier2ScaleY": 0.017,
+
+	"GENERAL_AirSpherePositionX": -8.85,
+	"GENERAL_AirSpherePositionY": -4.51,
+	"GENERAL_AirSphereScaleX": 1,
+	"GENERAL_AirSphereScaleY": 1,
+	
+	"GENERAL_EarthSpherePositionX": -6.76,
+	"GENERAL_EarthSpherePositionY": -4.51,
+	"GENERAL_EarthSphereScaleX": 1,
+	"GENERAL_EarthSphereScaleY": 1,
+	
+	"GENERAL_FireSpherePositionX": -8.88,
+	"GENERAL_FireSpherePositionY": -5.32,
+	"GENERAL_FireSphereScaleX": 1,
+	"GENERAL_FireSphereScaleY": 1,
+	
+	"GENERAL_WaterSpherePositionX": -6.76,
+	"GENERAL_WaterSpherePositionY": -5.32,
+	"GENERAL_WaterSphereScaleX": 1,
+	"GENERAL_WaterSphereScaleY": 1,
+	
+	"MARBLE_MarbleType1": "_MarbleYinYang",
+	"MARBLE_MarbleType2": "_MarbleScarab",
+	"MARBLE_MarbleType3": "_MarbleEyeOfHorus",
+	"MARBLE_MarbleType4": "_MarbleKingTut",
+	"MARBLE_MarbleType5": "_MarbleParthenon",
+    
+	"MARBLE_GoalPanelMarbleType1": "_MarbleEyeOfHorus",
+	"MARBLE_GoalPanelMarbleType2": "_MarbleMedusa",
+	
+    "MARBLE_GoalPanelMarbleType1LeftPositionX": 7.06,
+    "MARBLE_GoalPanelMarbleType1LeftPositionY": 3.23,
+    "MARBLE_GoalPanelMarbleType1LeftScaleX": 0.55,
+    "MARBLE_GoalPanelMarbleType1LeftScaleY": 0.55,
+    
+    "MARBLE_GoalPanelMarbleType1MiddlePositionX": 7.76,
+    "MARBLE_GoalPanelMarbleType1MiddlePositionY": 3.23,
+    "MARBLE_GoalPanelMarbleType1MiddleScaleX": 0.55,
+    "MARBLE_GoalPanelMarbleType1MiddleScaleY": 0.55,
+    
+    "MARBLE_GoalPanelMarbleType1RightPositionX": 8.46,
+    "MARBLE_GoalPanelMarbleType1RightPositionY": 3.23,
+    "MARBLE_GoalPanelMarbleType1RightScaleX": 0.55,
+    "MARBLE_GoalPanelMarbleType1RightScaleY": 0.55,
+    
+    "MARBLE_GoalPanelMarbleType2LeftPositionX": 7.06,
+    "MARBLE_GoalPanelMarbleType2LeftPositionY": 2.51,
+    "MARBLE_GoalPanelMarbleType2LeftScaleX": 0.55,
+    "MARBLE_GoalPanelMarbleType2LeftScaleY": 0.55,
+    
+    "MARBLE_GoalPanelMarbleType2MiddlePositionX": 7.76,
+    "MARBLE_GoalPanelMarbleType2MiddlePositionY": 2.51,
+    "MARBLE_GoalPanelMarbleType2MiddleScaleX": 0.55,
+    "MARBLE_GoalPanelMarbleType2MiddleScaleY": 0.55,
+    
+    "MARBLE_GoalPanelMarbleType2RightPositionX": 8.46,
+    "MARBLE_GoalPanelMarbleType2RightPositionY": 2.51,
+    "MARBLE_GoalPanelMarbleType2RightScaleX": 0.55,
+    "MARBLE_GoalPanelMarbleType2RightScaleY": 0.55,
+	
+	"ASIA_BoardPositionX": 0,
+    "ASIA_BoardPositionY": 0,
+    "ASIA_BoardScaleX": 1,
+    "ASIA_BoardScaleY": 1,
+    
+	"ASIA_ManaOverlayPositionX": -7.7,
+    "ASIA_ManaOverlayPositionY": -4.86,
+    "ASIA_ManaOverlayScaleX": 1,
+    "ASIA_ManaOverlayScaleY": 1,
+	
+    "ASIA_LeftUIPositionX": -6.7,
+    "ASIA_LeftUIPositionY": 0,
+    "ASIA_LeftUIScaleX": 1,
+    "ASIA_LeftUIScaleY": 1,
+	
+	"ASIA_RightUIPositionX": 7.25,
+    "ASIA_RightUIPositionY": 0,
+    "ASIA_RightUIScaleX": 1,
+    "ASIA_RightUIScaleY": 1,
+    
+	"ASIA_TopUI1PositionX": -2,
+    "ASIA_TopUI1PositionY": 5.8,
+    "ASIA_TopUI1ScaleX": 1,
+    "ASIA_TopUI1ScaleY": 1.13,
+	
+	"ASIA_TopUI2PositionX": 0.5,
+    "ASIA_TopUI2PositionY": 5.8,
+    "ASIA_TopUI2ScaleX": 1,
+    "ASIA_TopUI2ScaleY": 1.13,
+	
+	"ASIA_TopUI3PositionX": 3.0,
+    "ASIA_TopUI3PositionY": 5.8,
+    "ASIA_TopUI3ScaleX": 1,
+    "ASIA_TopUI3ScaleY": 1.13,
+	
+	"ASIA_BottomUI1PositionX": -2,
+    "ASIA_BottomUI1PositionY": -5.8,
+    "ASIA_BottomUI1ScaleX": 1,
+    "ASIA_BottomUI1ScaleY": 1.12,
+	
+	"ASIA_BottomUI2PositionX": 0.5,
+    "ASIA_BottomUI2PositionY": -5.8,
+    "ASIA_BottomUI2ScaleX": 1,
+    "ASIA_BottomUI2ScaleY": 1.12,
+	
+	"ASIA_BottomUI3PositionX": 3.0,
+    "ASIA_BottomUI3PositionY": -5.8,
+    "ASIA_BottomUI3ScaleX": 1,
+    "ASIA_BottomUI3ScaleY": 1.12,
+	
+    "ASIA_EnemyPositionX": -7.8,
+    "ASIA_EnemyPositionY": 1.5,
+    "ASIA_EnemyScaleX": 1,
+    "ASIA_EnemyScaleY": 1,
+        
+    "ASIA_ProgressIndicatorPositionX": 7.6,
+    "ASIA_ProgressIndicatorPositionY": -2.7,
+    "ASIA_ProgressIndicatorScaleX": 1,
+    "ASIA_ProgressIndicatorScaleY": 1,
+              
+    "ASIA_Gate1PositionX": 7.6,
+    "ASIA_Gate1PositionY": 1,
+    "ASIA_Gate1ScaleX": 1,
+    "ASIA_Gate1ScaleY": 1,
+               
+    "ASIA_Gate2PositionX": 7.6,
+    "ASIA_Gate2PositionY": -1,
+    "ASIA_Gate2ScaleX": 1,
+    "ASIA_Gate2ScaleY": 1,
+    
+    "ASIA_Gate3PositionX": 7.6,
+    "ASIA_Gate3PositionY": -3,
+    "ASIA_Gate3ScaleX": 1,
+    "ASIA_Gate3ScaleY": 1,
+	
+	
+	
+	
+	
+	
+	
+	"EGYPT_BoardPositionX": 0,
+    "EGYPT_BoardPositionY": 0,
+    "EGYPT_BoardScaleX": 1,
+    "EGYPT_BoardScaleY": 1,
+    
+	"EGYPT_ManaOverlayPositionX": -7.7,
+    "EGYPT_ManaOverlayPositionY": -4.86,
+    "EGYPT_ManaOverlayScaleX": 1,
+    "EGYPT_ManaOverlayScaleY": 1,
+	
+    "EGYPT_LeftUIPositionX": -1.96,
+    "EGYPT_LeftUIPositionY": 0,
+    "EGYPT_LeftUIScaleX": 1,
+    "EGYPT_LeftUIScaleY": 1,
+	
+	"EGYPT_RightUIPositionX": 7.25,
+    "EGYPT_RightUIPositionY": 0,
+    "EGYPT_RightUIScaleX": 1,
+    "EGYPT_RightUIScaleY": 1,
+    
+	"EGYPT_TopUI1PositionX": -2,
+    "EGYPT_TopUI1PositionY": 5.8,
+    "EGYPT_TopUI1ScaleX": 1,
+    "EGYPT_TopUI1ScaleY": 1.13,
+	
+	"EGYPT_TopUI2PositionX": 0.5,
+    "EGYPT_TopUI2PositionY": 5.8,
+    "EGYPT_TopUI2ScaleX": 1,
+    "EGYPT_TopUI2ScaleY": 1.13,
+	
+	"EGYPT_TopUI3PositionX": 3.0,
+    "EGYPT_TopUI3PositionY": 5.8,
+    "EGYPT_TopUI3ScaleX": 1,
+    "EGYPT_TopUI3ScaleY": 1.13,
+	
+	"EGYPT_BottomUI1PositionX": -2,
+    "EGYPT_BottomUI1PositionY": -5.8,
+    "EGYPT_BottomUI1ScaleX": 1,
+    "EGYPT_BottomUI1ScaleY": 1.12,
+	
+	"EGYPT_BottomUI2PositionX": 0.5,
+    "EGYPT_BottomUI2PositionY": -5.8,
+    "EGYPT_BottomUI2ScaleX": 1,
+    "EGYPT_BottomUI2ScaleY": 1.12,
+	
+	"EGYPT_BottomUI3PositionX": 3.0,
+    "EGYPT_BottomUI3PositionY": -5.8,
+    "EGYPT_BottomUI3ScaleX": 1,
+    "EGYPT_BottomUI3ScaleY": 1.12,
+	
+    "EGYPT_EnemyPositionX": -7.8,
+    "EGYPT_EnemyPositionY": 0,
+    "EGYPT_EnemyScaleX": 1,
+    "EGYPT_EnemyScaleY": 1,
+        
+    "EGYPT_ProgressIndicatorPositionX": 7.6,
+    "EGYPT_ProgressIndicatorPositionY": -2.7,
+    "EGYPT_ProgressIndicatorScaleX": 1,
+    "EGYPT_ProgressIndicatorScaleY": 1,
+              
+    "EGYPT_Gate1PositionX": 7.6,
+    "EGYPT_Gate1PositionY": 1,
+    "EGYPT_Gate1ScaleX": 1,
+    "EGYPT_Gate1ScaleY": 1,
+               
+    "EGYPT_Gate2PositionX": 7.6,
+    "EGYPT_Gate2PositionY": -1,
+    "EGYPT_Gate2ScaleX": 1,
+    "EGYPT_Gate2ScaleY": 1,
+    
+    "EGYPT_Gate3PositionX": 7.6,
+    "EGYPT_Gate3PositionY": -3,
+    "EGYPT_Gate3ScaleX": 1,
+    "EGYPT_Gate3ScaleY": 1,
+	
+	
+	
+	
+	
+	
+	
+	"GRECO_BoardPositionX": 0,
+    "GRECO_BoardPositionY": 0,
+    "GRECO_BoardScaleX": 1,
+    "GRECO_BoardScaleY": 1,
+    
+	"GRECO_ManaOverlayPositionX": -7.7,
+    "GRECO_ManaOverlayPositionY": -4.86,
+    "GRECO_ManaOverlayScaleX": 1,
+    "GRECO_ManaOverlayScaleY": 1,
+	
+    "GRECO_LeftUIPositionX": -4.83,
+    "GRECO_LeftUIPositionY": 0,
+    "GRECO_LeftUIScaleX": 1,
+    "GRECO_LeftUIScaleY": 1,
+	
+	"GRECO_RightUIPositionX": 7.25,
+    "GRECO_RightUIPositionY": 0,
+    "GRECO_RightUIScaleX": 1,
+    "GRECO_RightUIScaleY": 1,
+    
+	"GRECO_TopUI1PositionX": -2,
+    "GRECO_TopUI1PositionY": 5.8,
+    "GRECO_TopUI1ScaleX": 1,
+    "GRECO_TopUI1ScaleY": 1.13,
+	
+	"GRECO_TopUI2PositionX": 0.5,
+    "GRECO_TopUI2PositionY": 5.8,
+    "GRECO_TopUI2ScaleX": 1,
+    "GRECO_TopUI2ScaleY": 1.13,
+	
+	"GRECO_TopUI3PositionX": 3.0,
+    "GRECO_TopUI3PositionY": 5.8,
+    "GRECO_TopUI3ScaleX": 1,
+    "GRECO_TopUI3ScaleY": 1.13,
+	
+	"GRECO_BottomUI1PositionX": -2,
+    "GRECO_BottomUI1PositionY": -5.8,
+    "GRECO_BottomUI1ScaleX": 1,
+    "GRECO_BottomUI1ScaleY": 1.12,
+	
+	"GRECO_BottomUI2PositionX": 0.5,
+    "GRECO_BottomUI2PositionY": -5.8,
+    "GRECO_BottomUI2ScaleX": 1,
+    "GRECO_BottomUI2ScaleY": 1.12,
+	
+	"GRECO_BottomUI3PositionX": 3.0,
+    "GRECO_BottomUI3PositionY": -5.8,
+    "GRECO_BottomUI3ScaleX": 1,
+    "GRECO_BottomUI3ScaleY": 1.12,
+	
+    "GRECO_EnemyPositionX": -7.8,
+    "GRECO_EnemyPositionY": 0,
+    "GRECO_EnemyScaleX": 1,
+    "GRECO_EnemyScaleY": 1,
+        
+    "GRECO_ProgressIndicatorPositionX": 7.6,
+    "GRECO_ProgressIndicatorPositionY": -2.7,
+    "GRECO_ProgressIndicatorScaleX": 1,
+    "GRECO_ProgressIndicatorScaleY": 1,
+              
+    "GRECO_Gate1PositionX": 7.6,
+    "GRECO_Gate1PositionY": 1,
+    "GRECO_Gate1ScaleX": 1,
+    "GRECO_Gate1ScaleY": 1,
+               
+    "GRECO_Gate2PositionX": 7.6,
+    "GRECO_Gate2PositionY": -1,
+    "GRECO_Gate2ScaleX": 1,
+    "GRECO_Gate2ScaleY": 1,
+    
+    "GRECO_Gate3PositionX": 7.6,
+    "GRECO_Gate3PositionY": -3,
+    "GRECO_Gate3ScaleX": 1,
+    "GRECO_Gate3ScaleY": 1
+    
+}
